@@ -1,0 +1,8 @@
+{
+  "name": "pm-cart",
+  "version": "0.1.0",
+  "description": "pear market cart controllers",
+  "author" : "Brad Davis <brad.bdavis1@gmail.com>",
+  "dependencies": {
+  }
+}
